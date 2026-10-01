@@ -5,6 +5,7 @@
 The work-done in this Assignment is to give Animation to the Hero_image using CSS transition property. By this when we hover on the image,its rotated and get a rounded shape & get bigger in size in a particular rotation smoothly when hover ends its get its original shape & position. The animation is starting when over else it will be in its normal state.
 
 # Deployed link :
+https://srajjak-3012.github.io/CSS-Animation-to-Hero_image-Ass-10/
 
 
 # How to Deploy a Website on GitHub Pages:----------------------->
